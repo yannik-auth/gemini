@@ -279,4 +279,7 @@
   <data name="SaveChangesBeforeClosingMessage" xml:space="preserve">
     <value>Save changes to the {0} "{1}" before closing?</value>
   </data>
+  <data name="AdvancedSliderCommitErrorFormat" xml:space="preserve">
+    <value>Failed to set value: {0}</value>
+  </data>
 </root>
